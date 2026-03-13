@@ -1,0 +1,27 @@
+{
+  "name": "backend-node.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hasnainsharif1/BACKEND-NODE.JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hasnainsharif1/BACKEND-NODE.JS/issues"
+  },
+  "homepage": "https://github.com/hasnainsharif1/BACKEND-NODE.JS#readme",
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "mongoose": "^9.3.0"
+  }
+}
