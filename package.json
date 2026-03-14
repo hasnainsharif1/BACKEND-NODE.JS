@@ -20,8 +20,14 @@
   },
   "homepage": "https://github.com/hasnainsharif1/BACKEND-NODE.JS#readme",
   "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "dns": "^0.2.2",
     "dotenv": "^17.3.1",
     "express": "^5.2.1",
+    "mongodb": "4.1",
     "mongoose": "^9.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
   }
 }
